@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\bin\Debug\DegerReferansParametre.exe.config
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\bin\Debug\DegerReferansParametre.exe
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\bin\Debug\DegerReferansParametre.pdb
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.exe
+C:\Users\Mevlüt\source\repos\DegerReferansParametre\DegerReferansParametre\obj\Debug\DegerReferansParametre.pdb
